@@ -40,9 +40,10 @@ For more help type `:help Terminal`
 ```bash
 apt-vim install -y https://github.com/tc50cal/vim-terminal.git
 ```
+<br>
+<br>
 
 ----
-## Note
-
-vim-terminal was inspired by Conque, which was written by Nico Raffo
+#### Note
+vim-terminal was inspired by Conque
 
