@@ -18,7 +18,7 @@ To open Terminal in a new horizontal or vertical buffer use:
 :TerminalSplit <command>
 :TerminalVSplit <command>
 :TerminalTab <command>
-
+```
 All text typed in insert mode will be sent to your shell. Use the <F9> key to send a visual selection from any buffer to the shell.
 
 For more help type `:help Terminal`
