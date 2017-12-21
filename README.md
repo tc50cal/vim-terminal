@@ -6,21 +6,22 @@ vim-terminal is a Vim plugin which allows you to run interactive programs, such 
 ## Usage
 
 Type :Terminal <command> to run your command in vim, for example:
-
+```vim
 :Terminal bash
 :Terminal mysql -h localhost -u joe -p sock_collection
 :Terminal Powershell.exe
 :Terminal C:\Python27\python.exe
+```
 
 To open Terminal in a new horizontal or vertical buffer use:
-
+```vim
 :TerminalSplit <command>
 :TerminalVSplit <command>
 :TerminalTab <command>
 
 All text typed in insert mode will be sent to your shell. Use the <F9> key to send a visual selection from any buffer to the shell.
 
-For more help type :help Terminal
+For more help type `:help Terminal`
 
  
 ## Requirements
@@ -36,8 +37,9 @@ For more help type :help Terminal
    * Python 2.7 and/or 3.1 
 
 ## Installation
+```bash
 apt-vim install -y https://github.com/tc50cal/vim-terminal.git
-
+```
 
 ----
 ## Note
