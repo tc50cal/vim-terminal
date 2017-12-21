@@ -1,5 +1,5 @@
 
-vim-terminal is a Vim plugin which allows you to run interactive programs, such as bash on linux or powershell.exe on Windows, inside a Vim buffer. In other words it is a terminal emulator which uses a Vim buffer to display the program output. 
+vim-terminal is a Vim plugin which allows you to run interactive programs, such as bash on Linux or powershell.exe on Windows, inside a Vim buffer. In other words, it is a terminal emulator which uses a Vim buffer to display the program output. 
 
 # vim-terminal
 
